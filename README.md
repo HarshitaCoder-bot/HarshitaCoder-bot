@@ -28,9 +28,6 @@
   <a href="https://www.linkedin.com/in/harshitapatidar07" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="linkedin" />
   </a>
-  <a href="https://github.com/HarshitaCoder-bot" target="blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" alt="github" />
-  </a>
 </p>
 
 ---
