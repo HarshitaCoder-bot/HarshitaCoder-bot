@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=HarshitaCoder-bot&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-- 🌱 I’m currently working on **Power BI, SQL, and Python**
+- 🌱 I’m currently working on **Microsoft Power BI, SQL, Python and Microsoft Excel**
 
 - 💼 My current projects:
   - HR Data Analysis
@@ -18,10 +18,11 @@
   - Customer Support Analyst – Revenue Analysis
   - Automobile Data Analysis
   - New Zealand Export Data Analysis
+  - KITE-PNL: Profit & Loss Statement Analysis
 
 - 📫 Reach me at: **patidarharshita60@gmail.com**
 
-- 💬 Ask me about: **Dashboard design, Excel automation, SQL queries**
+- 💬 Ask me about: **Dashboard design, Excel automation, SQL queries**,**Python Data Analysis**
 
 ---
 
