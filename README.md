@@ -15,6 +15,9 @@
 - 💼 My current projects:
   - HR Data Analysis
   - Secondary Sales Analysis
+  - Customer Support Analyst – Revenue Analysis
+  - Automobile Data Analysis
+  - New Zealand Export Data Analysis
 
 - 📫 Reach me at: **patidarharshita60@gmail.com**
 
